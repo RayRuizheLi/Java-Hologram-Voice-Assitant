@@ -1,0 +1,19 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <keyword> = (hey bull dog);
+public <feelings>  = ( how are you | say hello);
+public <voices>  = ( change to voice one  | change to voice two | change to voice three );
+public <converse>  = (introduce yourself);
+public <characters> = (mister me seek);
+public <bus> = (bus);
+public <Google> = (set timer| cancel| first timer| second timer| twenty five );
+public <weather> = (weather);
+
+
+
